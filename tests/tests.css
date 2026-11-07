@@ -1,0 +1,3 @@
+body { font: 14px/1.6 system-ui, sans-serif; margin: 24px; background: #fff; color: #111; }
+#results li[data-ok="false"] { color: #a00; }
+#results li pre { white-space: pre-wrap; font-size: 12px; }
